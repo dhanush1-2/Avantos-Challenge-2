@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/dhanush/Desktop/Projects/Avantos Code/**)",
+      "Read(//Users/dhanush/Desktop/Projects/Avantos Code/8bab92e762d367de9455183abe04f38f-b3a6260edaaf623c4047038d9d808c6c0da3108e/**)",
+      "WebFetch(domain:admin-ui.dev-sandbox.workload.avantos-ai.net)",
+      "Bash(curl -s \"https://admin-ui.dev-sandbox.workload.avantos-ai.net/docs\")",
+      "Bash(curl -s \"https://admin-ui.dev-sandbox.workload.avantos-ai.net/openapi.yaml\")",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npm test *)",
+      "Bash(npm run *)"
+    ]
+  }
+}
