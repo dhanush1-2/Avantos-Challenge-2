@@ -1,6 +1,6 @@
 # Journey Builder
 
-![CI](https://github.com/<your-username>/journey-builder/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/dhanush1-2/journey-builder/actions/workflows/ci.yml/badge.svg)
 
 A React + TypeScript implementation of the Avantos Journey Builder prefill UI challenge.
 
